@@ -11,32 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Computer Engineering, Zhejiang University, 2018 - 2023
+* B.S. in Computer Engineering, University of Illinois Urbana-Champaign, 2018 - 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023 - Until now: Research Assistant
+  * University of Illinois Urbana-Champaign
+  * Duties included: Build a “push-button” reliability 
+  testing tool named Rainmaker, as a basic SDK utility for
+  any cloud-backed application. Rainmaker helps developers
+  easily and systematically test their applications’ correctness,
+  in the face of various errors under the cloud-based fault model. To date,
+  Rainmaker has detected 73 bugs (44 confirmed and 40 fixed)
+  in 11 popular cloud-backed applications, like orleans, botbuilder-dotnet, and efcore.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Tianyin Xu
+
+* April 2021 - August 2021: Software Engineer Intern
+  * Tencent
+  * Duties included: Work at Billing paltform of department of Technology and Engineering Group. My job is to build payment systems on Midas(Tencent overseas game e-commerce platform) for a lot of popular games, like pokeman united on Nintendo Switch and Saint Seiya Awakening: Knights of the Zodiac mobile. I helped implement the shopping cart mode of Saint Seiya Awakening: Knights of the Zodiac mobile, which improved shopping efficiency. And I help implement the code to record user consumption infomation to help the data analysis team create a better user portrait.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* C++
+* Java
+* Python
+* C#
+* Cloud service like Azure and AWS
+* Powershell, Git, Shell.
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -53,7 +57,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I get along well with everyone on the team, and I am also the source of happiness for the team

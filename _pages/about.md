@@ -18,4 +18,4 @@ I was called as admin of 3111 because I loved to sleep in the lab and stayed in 
 
 Story that makes me believe I will be a good worker in both research and indutry areas.
 ======
-My Prof. Tianyin Xu told me a story. Ya-Qin Zhang, a famous Chinese scientist, technologist and business executive, believes that the person who can eat a lot will be a good worker. The reason is that people who can eat more need to have more money to meet their food needs. So they will work harder to earn more money. And that's what I am, I'm a big eater with the abdomen full of energy.
+My Prof. Tianyin Xu told me a story. A famous Chinese scientist, technologist and business executive, believes that the person who can eat a lot will be a good worker. The reason is that people who can eat more need to have more money to meet their food needs. So they will work harder to earn more money. And that's what I am, I'm a big eater with the abdomen full of energy.

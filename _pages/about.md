@@ -18,4 +18,4 @@ I was called as admin of 3111 because I loved to sleep in the lab and stayed in 
 
 Story that makes me believe I will be a good worker in both research and indutry areas.
 ======
-My Prof. Tianyin Xu told me a story. A famous Chinese scientist, technologist and business executive, believes that the person who can eat a lot will be a good worker. The reason is that people who can eat more need to have more money to meet their food needs. So they will work harder to earn more money. And that's what I am, I'm a big eater with the abdomen full of energy.
+A famous computer scientist believes that people who eat a lot tend to be good researchers. The reason is that people who can eat more need to spend the energy (on research!) and make money to support their appetite. And that's who I am, I'm a big eater full of energy for research.

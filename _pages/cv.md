@@ -40,24 +40,7 @@ Skills
 * C#
 * Cloud service like Azure and AWS
 * Powershell, Git, Shell.
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
+
 Service and leadership
 ======
 * I get along well with everyone on the team, and I am also the source of happiness for the team

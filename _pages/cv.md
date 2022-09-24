@@ -26,11 +26,11 @@ Work experience
   Rainmaker has detected 73 bugs (44 confirmed and 40 fixed)
   in 11 popular cloud-backed applications, like orleans, botbuilder-dotnet, and efcore.
 
-  * Supervisor: Professor Tianyin Xu
+  * Supervisor: Professor Tianyin Xu and Suman Nath
 
 * April 2021 - August 2021: Software Engineer Intern
   * Tencent
-  * Duties included: Work at Billing paltform of department of Technology and Engineering Group. My job is to build payment systems on Midas(Tencent overseas game e-commerce platform) for a lot of popular games, like pokeman united on Nintendo Switch and Saint Seiya Awakening: Knights of the Zodiac mobile. I helped implement the shopping cart mode of Saint Seiya Awakening: Knights of the Zodiac mobile, which improved shopping efficiency. And I help implement the code to record user consumption infomation to help the data analysis team create a better user portrait.
+  * Duties included: Work at Billing paltform of department of Technology and Engineering Group. My job is to build payment systems on Midas(Tencent overseas game e-commerce platform) for a lot of popular games, like pokeman united on Nintendo Switch and Saint Seiya Awakening: Knights of the Zodiac mobile. I helped implement the shopping cart mode of Saint Seiya Awakening: Knights of the Zodiac mobile, which improved shopping efficiency. And I helped implement the code to record user consumption infomation to help the data analysis team create a better user portrait.
   
 Skills
 ======

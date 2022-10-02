@@ -21,7 +21,7 @@ Work experience
   * Duties included: Build a easy to use reliability 
   testing tool to helps developers
   test their cloud-native applications. To date,
-  the tool has already detected 73 bugs (44 confirmed and 40 fixed)
+  the tool has already found 73 bugs, 44 of which have been confirmed and 40 of which have been fixed.
   in 11 popular applications using Azure or AWS services, like orleans, botbuilder-dotnet, and efcore.
 
   * Supervisor: Professor Tianyin Xu and Suman Nath

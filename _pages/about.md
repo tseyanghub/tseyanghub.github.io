@@ -14,7 +14,7 @@ The goal of my research is to make computer systems reliable and secure, especia
 
 One funny thing about me in my research career
 ======
-I was called as admin of 3111 because I loved to sleep in the lab and stayed in the lab to talk with other folks. But staffs kicked me out and confiscated my folding bed later because they thought I was abused.
+I loved to sleep in the lab and stayed in the lab to talk with other folks. But staffs kicked me out and confiscated my folding bed later because they thought I was abused.
 
 Story that makes me believe I will be a good worker in both research and indutry areas.
 ======

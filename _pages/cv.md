@@ -38,6 +38,7 @@ Skills
 * C#
 * Cloud service like Azure and AWS
 * Powershell, Git, Shell.
+* SQL
 
 Service and leadership
 ======

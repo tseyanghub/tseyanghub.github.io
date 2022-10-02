@@ -19,12 +19,10 @@ Work experience
 * May 2023 - Until now: Research Assistant
   * University of Illinois Urbana-Champaign
   * Duties included: Build a “push-button” reliability 
-  testing tool named Rainmaker, as a basic SDK utility for
-  any cloud-backed application. Rainmaker helps developers
-  easily and systematically test their applications’ correctness,
-  in the face of various errors under the cloud-based fault model. To date,
-  Rainmaker has detected 73 bugs (44 confirmed and 40 fixed)
-  in 11 popular cloud-backed applications, like orleans, botbuilder-dotnet, and efcore.
+  testing tool to helps developers
+  test their cloud-backed applications. To date,
+  the tool has already detected 73 bugs (44 confirmed and 40 fixed)
+  in 11 popular applications using Azure or AWS services, like orleans, botbuilder-dotnet, and efcore.
 
   * Supervisor: Professor Tianyin Xu and Suman Nath
 
